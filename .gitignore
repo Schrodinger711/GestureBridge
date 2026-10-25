@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+gesture_model_android.json
